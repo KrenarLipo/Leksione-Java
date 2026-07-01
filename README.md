@@ -1,2 +1,2 @@
-# Leksione-Gjuha-C
-Leksionet per kursin e Gjuhes C
+# Leksione-Gjuha-JAVA
+Leksionet per kursin e Gjuhes JAVA
